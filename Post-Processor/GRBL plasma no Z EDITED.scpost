@@ -2,13 +2,12 @@ firstPierceTime = 0 --this is an extra delay added to the first pierce as needed
 
 function OnAbout(event)
    ctrl = event:GetTextCtrl()
-   ctrl:AppendText("GRBL plasma post processor\n")
-   ctrl:AppendText("\n")
-   ctrl:AppendText("Generic plasma post for machines with or without THC\n")
+   ctrl:AppendText("GRBL 2-axis plasma post processor\n")
    ctrl:AppendText("\n")
    ctrl:AppendText("Modal G-codes and coordinates\n")
    ctrl:AppendText("No comments\n")
    ctrl:AppendText("M3/M5 turn the torch on/off\n")
+   ctrl:AppendText("Coolant on/off at start/end\n")
    ctrl:AppendText("Incremental IJ\n")
 end
 
