@@ -1,0 +1,17 @@
+TableX1=-0
+TableX2=0
+TableY1=-0
+TableY2=0
+X1=-610
+X2=0
+Y1=-610
+Y2=0
+MaxHeight=1000
+Origin=2
+tableOrigin=2
+ToolTime=0
+RapidSpeed=2000
+Post=C:\\Users\\james\\AppData\\Roaming\\SheetCam TNG\\posts\\GRBL 2-axis plasma for UWLab.scpost
+[MachineTypes]
+Rotary\ cutting\ (includes\ milling\ and\ routing)=0
+Jet\ cutting\ (includes\ plasma\,\ laser\ and\ water\ jet)=1
